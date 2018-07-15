@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color:#222;
+}
+
+.carousel-caption h1{
+    opacity: 1!important;
+}
+.carousel-caption h1{
+    font-size: 30px;
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+
+.card-header h5{
+    text-align: center;
+    -webkit-box-shadow: -1px 9px 20px -8px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: -1px 9px 20px -8px rgba(0, 0, 0, 0.2);
+    box-shadow: -1px 9px 20px -8px rgba(0, 0, 0, 0.2);
+}
+.my-container{
+    width: 100%;
+    height: 70%;
+    margin-top: -85px;
+    background:  fixed url("../image/iletisim-header-ahize.jpg") ;
+    background-size: cover;
+
+}
+.my-container-up{
+    width: 100%;
+    height: 70%;
+    background: rgba(50,80,70,0.1)!important;
+    background: white;
+    position: absolute;
+}
